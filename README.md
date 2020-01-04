@@ -16,5 +16,6 @@ This package requires a commercial license. You may not use, copy, or distribute
 
 - [Documentation and API](https://hapi.dev/family/items/)
 - [Version status](https://hapi.dev/resources/status/#items) (builds, dependencies, node versions, licenses, eol)
+- [Changelog](https://hapi.dev/family/items/changelog/)
 - [Project policies](https://hapi.dev/policies/)
 - [Free and commercial support options](https://hapi.dev/support/)
